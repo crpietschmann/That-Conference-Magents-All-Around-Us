@@ -4,4 +4,7 @@ Magnets are hidden in everyday use all around us. We use them to generate electr
 
 ## [Click here to download electromagnet instructions](https://github.com/crpietschmann/That-Conference-Magents-All-Around-Us/blob/master/Magnets%20all%20around%20us%20-%20Instructions.docx?raw=true)
 
-This [Family session for That Conference 2018](https://www.thatconference.com/sessions/session/12805) was presented by Katie and Chris Pietschmann, and kids.
+This is a Family session to help teach STEM principles to kids at [That Conference](http://thatconference.com), presented by Katie and Chris Pietschmann, and kids. It was presented the following years of That Conference:
+
+- [That Conference 2019 - Magets all around us!](https://www.thatconference.com/Sessions/Session/13803)
+- [That Conference 2018 - Magets all around us!](https://www.thatconference.com/sessions/session/12805)
