@@ -1,4 +1,6 @@
-# Magnets all around us!
+# Magnets all around us
+
+**Let's make an electro-magnet!**
 
 Magnets are hidden in everyday use all around us. We use them to generate electricity, and drive our cars. Magnets are so simple, yet so incredibly important for modern life. They are hidden all around us. Come to this session to learn how magnets work, and even how to build your own electro-magnet with a nail, wire, and a small battery you can probably find around your house.
 
@@ -6,8 +8,8 @@ This is presented as a Family session at [That Conference](http://thatconference
 
 It's been presented in the following years of That Conference:
 
-- [That Conference 2019 - Magets all around us!](https://www.thatconference.com/Sessions/Session/13803)
-- [That Conference 2018 - Magets all around us!](https://www.thatconference.com/sessions/session/12805)
+- [That Conference 2019 - Magnets all around us!](https://www.thatconference.com/Sessions/Session/13803)
+- [That Conference 2018 - Magnets all around us!](https://www.thatconference.com/sessions/session/12805)
 
 ## Supplies
 
@@ -19,7 +21,7 @@ Here's what you'll need:
 - about 4 1/2 feet of insulated copper wire with 1/2 inch of insulation stripped off both ends
 - 9V battery connector with 1/2 inch of insulation stripped off each wire
 
-<img src="images/2019-08-03-19-37-46.png" style="width:50%" alt="supplies needed"/>
+![Supplies needed](images/2019-08-03-19-37-46.png)
 
 ## Instructions
 
