@@ -18,7 +18,7 @@ Here's what you'll need:
 - a 9V battery
 - a couple small paper clips
 - 1 nail - about 2 1/2 to 3 inches long
-- about 4 1/2 feet of insulated copper wire with 1/2 inch of insulation stripped off both ends
+- about 4 1/2 feet of insulated copper wire with 1/2 inch of insulation stripped off both ends. Preferably 22 or 24 AWG (gauge) wire.
 - 9V battery connector with 1/2 inch of insulation stripped off each wire
 
 ![Supplies needed](images/2019-08-03-19-37-46.png)
